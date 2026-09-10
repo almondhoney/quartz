@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: almondhoney.github.io/quartz
+  baseUrl: almondhoney.github.io/almond
   ignorePatterns:
     - private
     - templates
