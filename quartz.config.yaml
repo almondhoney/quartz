@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Almond's Room
+  pageTitleSuffix: "Almond Honey"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: en-GB
   baseUrl: almondhoney.github.io/almond
   ignorePatterns:
     - private
@@ -16,9 +16,10 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      title: Rubik 80s Fade
+      header: Kaisei HarunoUmi
+      body: Kaisei HarunoUmi
+      code: M PLUS 1 Code
     colors:
       lightMode:
         light: "#faf8f8"
