@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-11T01:09:54.546Z
-modified: 2026-09-11T01:17:23.308Z
+modified: 2026-09-11T01:32:06.956Z
 ---
 
 ---
@@ -23,4 +23,4 @@ I made this site using a few things:
 
 ---
 
-I received a lot of wonderful help from the people in Quartz's Discord server. I honestly wouldn't have this site up and running if it wasn't for them.
+I received a lot of wonderful help from the people in Quartz's Discord server. I honestly wouldn't have this site up and running if it weren't for them.
