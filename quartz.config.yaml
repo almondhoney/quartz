@@ -274,7 +274,6 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-    plugins:
   - source: "@quartz-themes/core"
     options:
       theme: "agate"
