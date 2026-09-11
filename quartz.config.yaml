@@ -277,8 +277,8 @@ plugins:
     plugins:
   - source: "@quartz-themes/core"
     options:
-      theme: "<THEME-NAME>"
-      mode: "both"
+      theme: "agate"
+      mode: "light"
 layout:
   groups:
     toolbar:
