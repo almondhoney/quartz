@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Almond's Room
-  pageTitleSuffix: "Almond Honey"
+  pageTitleSuffix: " | Almond & Honey"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -274,6 +274,11 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+    plugins:
+  - source: "@quartz-themes/core"
+    options:
+      theme: "<THEME-NAME>"
+      mode: "both"
 layout:
   groups:
     toolbar:
